@@ -53,3 +53,34 @@ ul {
     font-size: 18px;
     font-weight: bold;
 }
+
+/* SECOND */
+
+.second img {
+    width: 250px;
+    height: auto;
+}
+.second {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 150px;
+}
+.second-content-container {
+    display: flex;
+    gap: 50px;
+}
+
+.second h2 {
+    color: #1F2937;
+    font-weight: extra-bold;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.second .second-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
