@@ -84,3 +84,26 @@ ul {
     align-items: center;
     gap: 20px;
 }
+
+/* THIRD */
+
+.third {
+    background-color: #E5E7EB;
+    padding: 50px 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.third .citate {
+
+    color: #1F2937;
+    font-weight: light;
+    font-style: italic;
+    font-size: 36px;
+}
+.third .author {
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 32px;
+}
